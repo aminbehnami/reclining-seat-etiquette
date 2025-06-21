@@ -13,7 +13,7 @@ This indicates that while most are okay with reclining, a sizable group finds it
 
 ## Chart
 
-![Reclining Seat Chart](2wyEv--is-it-rude-to-recline-your-seat-on-a-plane--2.png)
+![Reclining Seat Chart](2wyEv-is-it-rude-to-recline-your-seat-on-a-plane--2.png)
 
 ## Data Source
 [FiveThirtyEight Flying Etiquette Survey](https://github.com/fivethirtyeight/data/tree/master/flying-etiquette-survey)
