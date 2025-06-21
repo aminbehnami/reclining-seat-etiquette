@@ -1,1 +1,1 @@
-# reclining-seat-etiquette
+# reclining seat etiquette
