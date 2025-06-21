@@ -1,5 +1,3 @@
-# reclining seat etiquette
-
 # Is It Rude to Recline Your Seat on a Plane?
 
 This repository contains a chart based on data from FiveThirtyEight’s flying etiquette survey. I selected the question about reclining seats because it's a common debate during air travel.
