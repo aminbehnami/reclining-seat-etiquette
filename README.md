@@ -1,6 +1,6 @@
 # Is It Rude to Recline Your Seat on a Plane?
 
-This repository contains a chart based on data from FiveThirtyEight’s flying etiquette survey. I selected the question about reclining seats because it's a common debate during air travel.
+This repository contains a chart based on data from FiveThirtyEight’s flying etiquette survey. I selected the question about reclining seats because I wanted to know what most people think about it. The results were interesting because they showed how many people are okay with it and how many think it’s rude. It’s a simple action that many people have different opinions about, and the chart made it easy to see the answers.
 
 ## Chart Summary
 - **502** people said it's *not rude at all*
